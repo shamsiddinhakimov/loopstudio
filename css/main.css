@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    height: 100%;
+}
+body{
+height: 100%;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.header-1{
+width: 700px;
+}
+.header a{
+    color: black;
+    width: 58px;
+    border-radius: 2px;
+    padding-bottom: 5px;
+}
+.header-start{
+    height: 30px;
+    border: 2px solid;
+    color: #D9D9D9;
+    border-radius: 2px;
+    padding-bottom: 5px;
+}
+.header-start-1{
+    width: 50px;
+    height: 25px;
+    border: 2px solid;
+    color: #D9D9D9;
+    border-radius: 2px;
+    padding-bottom: 5px;
+}
+.all{
+    margin-bottom: 20px;
+
+}
+.my{
+    background-color: #fff;
+    width: 600px;
+    height: 800px;
+    margin-left: auto; 
+    margin-right: auto;
+}
+.my-1{
+    margin-bottom: 50px;
+}
+.my-1 li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hi a{
+    text-decoration: underline;
+    color:#01BAB3;
+}
+.form1-control {
+    margin-bottom: 15px;
+}
+.form1_control label{
+    margin-bottom: 5px;
+    display: inline;
+    margin-left: 10px;
+    margin-right: 190px;
+}
+p{
+    margin-left: 35px;
+}
+label{
+    margin-left: 35px;
+}
+input {
+    margin-left: 35px;
+    padding: 8px 5px;
+    font-family: inherit;
+    margin-right: 80px;
+}
+.form-control label{
+    margin-bottom: 5px;
+    display: block;
+}
+.form2-control{
+    margin-bottom: 25px;
+    color: #01BAB3;
+}
+.form4-control a{
+    margin-left:auto ;
+    margin-right: auto;
+    margin-top: 25px;
+    width: 416px;
+    height: 48px;
+    color: #fff;
+    background-color: 
+    #01BAB3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.allwork{
+  background-color: 
+  #F4F8FA;
+}
+.teatr{
+margin-right: 184px;
+}
+.inpp{
+    width: 550px;
+    border-radius: 5px;
+    color: #D9D9D9;
+}
